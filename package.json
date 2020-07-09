@@ -1,15 +1,8 @@
 {
   "name": "sensense",
-  "version": "0.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build"
-  },
-  "dependencies": {
-    "vue": "^3.0.0-beta.15"
-  },
-  "devDependencies": {
-    "vite": "^1.0.0-beta.3",
-    "@vue/compiler-sfc": "^3.0.0-beta.15"
-  }
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rayriffy/vue-radwimps-demo.git",
+  "author": "Phumrapee Limpianchop <git@rayriffy.com>",
+  "license": "MIT"
 }
